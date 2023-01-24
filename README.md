@@ -22,7 +22,7 @@ Apresentação:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  Para o projeto, definimos o nome da empresa de Dificulity Proteção Veicular, que é uma associação de proteção veicular con finalidade de, reunir pessoas comprometidas em proteger-se mutuamente dos eventuais prejuízos inesperados provenientes de sinistros em seus veículos.
+  Para o projeto, definimos o nome da empresa de Dificulity Proteção Veicular, que é uma associação de proteção veicular com finalidade de, reunir pessoas comprometidas em proteger-se mutuamente dos eventuais prejuízos inesperados provenientes de sinistros em seus veículos.
   Para ajudar a empresa com o atendimento inicial de seus clientes seja por, redes sociais e outros aplicativos de smartphone, este bot automatizado será utilizado, o cliente irá navegar por menus e submenus para obter a resposta desejada de sua consulta.
   
 Menu Principal (Digite numericamente a opção desejada.)
