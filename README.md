@@ -35,3 +35,7 @@ Menu Principal (Digite numericamente a opção desejada.)
 6. Sair 
 
 Opção: 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Projeto criado e editado por ERICK DOS SANTOS, JORGE WILLIAM, ROBSON DA SILVA, RODRIGO DE SOUZA, STEPHANIE FERREIRA.
