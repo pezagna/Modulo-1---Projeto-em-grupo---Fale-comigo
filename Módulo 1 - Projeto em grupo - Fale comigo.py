@@ -72,11 +72,25 @@ def incendio(): # Sub menu. Incêndio/Destrastre natural
         else: 
             print ("\n""Usuário não encontrado. Solicite o seu plano na opcão Realizar cotação.")
             break
+def cotacao(): # Sub menu. Consultar planos
+    (input("Nome: "))
+    (input("E-mail: "))
+    (input("Telefone: "))
+    (input("Cidade\Estado: "))
+    (input("Veículo (Modelo e ano): "))
+    print ("\n""Solicitação enviada. Entraremos em contato imediatamente! ")
+def faleconosco(): # Sub menu. Fale Conosco
+    (input("Digite sua mensagem: "))
+    print("\n""Mensagem enviada. Aguarde atendimento! ")
 while opcao !="6": #Menu Principal
     print("=" *44)
     print("        Dificulity Proteção Veicular")
     print("=" *44)
     print("1. Reportar sinistro")
+    print("2. Consultar planos")
+    print("3. Dúvidas")
+    print("4. Realizar cotação")
+    print("5. Fale Conosco")
     print("6. Sair ")
     try :
         opcao = int(input("\n""Opção: "))
@@ -85,6 +99,14 @@ while opcao !="6": #Menu Principal
         continue
     if(opcao==1):
         sinistro()
+    elif(opcao==2):
+        planos()
+    elif(opcao==3):
+        duvidas()
+    elif(opcao==4):
+        cotacao()  
+    elif(opcao==5):
+        faleconosco()
     elif(opcao==6):
         print("\n""Atendimento encerrado.""\n")
         break
