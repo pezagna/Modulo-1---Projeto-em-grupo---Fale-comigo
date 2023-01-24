@@ -72,7 +72,20 @@ def incendio(): # Sub menu. Incêndio/Destrastre natural
         else: 
             print ("\n""Usuário não encontrado. Solicite o seu plano na opcão Realizar cotação.")
             break
-
+def outros(): # Sub menu. Consultar outros
+    while True:
+        try :
+            cpf = int(input("Informe o seu CPF: "))
+        except:
+            print ("CPF inválido, tente novamente.""\n")
+            continue              
+        if (cpf==12345678910): # Nesta parte, o bot poderá acessar alguma lista de dados que irá validar o login de usuário e continuar com a solicitação.             
+            (input("Reporte com detalhes o ocorrido: "))           
+            print ("\n""Solicitação enviada. Entraremos em contato imediatamente! ")
+            break
+        else: 
+            print ("\n""Usuário não encontrado. Solicite o seu plano na opcão Realizar cotação.")
+            break       
 def planos(): # Sub menu. Consultar planos
     while True:
         print("=" *44)
@@ -128,7 +141,16 @@ def duvidas(): # Sub menu. Dúvidas
             exit()
         else:
             print ("\n""Opcão inválida, tente novamente.")
-
+def cotacao(): # Sub menu. Consultar planos
+    (input("Nome: "))
+    (input("E-mail: "))
+    (input("Telefone: "))
+    (input("Cidade\Estado: "))
+    (input("Veículo (Modelo e ano): "))
+    print ("\n""Solicitação enviada. Entraremos em contato imediatamente! ")
+def faleconosco(): # Sub menu. Fale Conosco
+    (input("Digite sua mensagem: "))
+    print("\n""Mensagem enviada. Aguarde atendimento! ")
 while opcao !="6": #Menu Principal
     print("=" *44)
     print("        Dificulity Proteção Veicular")
