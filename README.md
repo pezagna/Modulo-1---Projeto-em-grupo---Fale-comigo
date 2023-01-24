@@ -5,6 +5,7 @@ Projeto - Módulo 1 - Projeto em grupo - Fale comigo
 Foi decidido que poderíamos escolher qual o ramo de atuação da empresa para qual iremos trabalhar e definimos isso em grupo.
 
 Requisitos do projeto:
+
 1 - A entrada dos dados deverá ser realizada pelo teclado utilizando estruturas de repetição
 
 2 - Estruturas de condicionais devem ser utilizadas
@@ -12,6 +13,7 @@ Requisitos do projeto:
 3 - O projeto desenvolvido deverá ser disponibilizado em repositório no GitHub.
 
 Apresentação:
+
 1 - Todos os integrantes do grupo deverão apresentar.
 
 2 - Utilizar slides de apoio para a apresentação.
