@@ -1,6 +1,6 @@
 Projeto - Módulo 1 - Projeto em grupo - Fale comigo
   
-  Nosso squad foi chamado para criar um projeto que irá ajudar com atendimentos automatizados de dúvidas sobre uma empresa, que no futuro, irá coletar informações para auxiliar na tomada de decisão.
+  Nosso Squad foi chamado para criar um projeto que irá ajudar com atendimentos automatizados de dúvidas sobre uma empresa, que no futuro, irá coletar informações para auxiliar na tomada de decisão.
 
 Foi decidido que poderíamos escolher qual o ramo de atuação da empresa para qual iremos trabalhar e definimos isso em grupo.
 
