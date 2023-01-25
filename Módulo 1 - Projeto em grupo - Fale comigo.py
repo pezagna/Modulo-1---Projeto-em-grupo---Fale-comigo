@@ -7,7 +7,7 @@ def sinistro(): # Sub menu. Reportar sinistro
         print("1. Roubo ")
         print("2. Colisão ")
         print("3. Incêndio/Desastre natural ")
-        print("4. Outros ")
+        print("4. Solicitar Reboque/Outros ")
         print("5. Voltar ")
         print("6. Sair ")
         try :
@@ -67,7 +67,7 @@ def incendio(): # Sub menu. Incêndio/Destrastre natural
             continue    
         if (cpf==12345678910): # Nesta parte, o bot poderá acessar alguma lista de dados que irá validar o login de usuário e continuar com a solicitação.
 
-            print ("\n""Solicitação enviada. Entraremos em contato imediatamente!")
+            print ("\n""Solicitação enviada. Entraremos em contato imediatamente!""\n""Se você não conseguiu apagar o fogo, saia de perto do veiculo o mais rápido possível e ligue para o Corpo de Bombeiros no número 193")
             break
         else: 
             print ("\n""Usuário não encontrado. Solicite o seu plano na opcão Realizar cotação.")
