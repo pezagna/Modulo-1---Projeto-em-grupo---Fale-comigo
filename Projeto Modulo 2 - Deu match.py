@@ -21,8 +21,7 @@
 #                                                                                        #
 ##########################################################################################
 
-import os
-os.system("cls")
+
 i= []
 notas = ["Candidato1","Candidato2","Candidato3","Candidato4"] #Lista com os candidatos.
 entrevista = [6,3,5,8] #Lista com as notas.
@@ -32,7 +31,6 @@ softskill = [8,5,8,7] #Lista com as notas.
 opcao=(1)
 
 def menu(): #Menu Principal
-    os.system("cls")
     opcao=0
     while opcao !="3":
         print("\n     Candidatos App""\n""\n""1. Cadastrar candidato""\n""2. Buscar/Listar candidatos""\n""3. Sair")
@@ -72,7 +70,6 @@ def submenu(): #Submenu
             print ("\n""Opcão inválida, tente novamente.")
             
 def cadastrar(): #Função para cadastrar candidatos.
-    os.system("cls")
     while True:
         try:
             nome =(input("Digite o nome do candidato: "))
@@ -92,7 +89,6 @@ def cadastrar(): #Função para cadastrar candidatos.
         break
     
 def pesquisar(): # Função para buscar candidatos.
-    os.system("cls")
     while True:
         checkE = int(input("Digite a nota da entrevista: "))
         checkT = int(input("Digite a nota da avaliação teórica: "))
