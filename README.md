@@ -1,8 +1,7 @@
 
 SENAC/RESILIA - Formação em Análise de Dados (FAD)            
 Projeto individual 1 - Módulo 2 - Deu match!                  
-Data de criação: 07/02/2023                                   
-Criação e edição:  Robson da Silva                            
+Data de criação: 07/02/2023                                                             
 versão = '3.11'                                               
 
 Contexto:
